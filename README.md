@@ -1,0 +1,1 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=10000&random=false&width=1500&height=100&lines=Passionate+developer+specializing+in+Front-end%2C+Back-end%2C+contributing+to+open-source+projects%2C+and+continuously+learning." alt="Typing SVG" /></a>
